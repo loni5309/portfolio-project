@@ -6,9 +6,9 @@ body {margin: 0}
    color: #ffffff;
 }
 
-.logo h1 {
+.logo p {
     font-family: 'ranchers', serif;
-    font-size: 50px;
+    font-size: 100px;
     text-align: center;
     margin-top: 0;
     padding-top: 20px;
@@ -48,7 +48,7 @@ body {margin: 0}
 
  .top-heading {
     text-align: center;
-    font-family: 'Chango', cursive;
+    font-family: 'ranchers', serif;
  }
 
  .footer-container {
@@ -58,3 +58,26 @@ body {margin: 0}
     color: white;
 }
 
+.menu {
+    text-align: center;
+    width: 100%;
+    border: 1px dashed;
+    font-size: 25px;
+}
+
+.tablerows {
+    width: 400px;
+}
+
+img { 
+    width: 200px;
+}
+
+table {
+    font-family: 'ranchers', serif;
+}
+
+h1 {
+    font-family: 'ranchers', serif;
+    text-align: center;
+}
